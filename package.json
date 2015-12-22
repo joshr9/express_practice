@@ -1,0 +1,14 @@
+{
+  "name": "express_bangout",
+  "version": "0.0.1",
+  "description": "express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Josh Ruchwarger",
+  "license": "ISC"
+}
